@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Piyush and I'm a Competitve Coder and Tech Enthusiast</h2>
+<h2 align="left">Hi ! My name is Piyush and I'm a Competitve Coder and Tech Enthusiast</h2>
 
 ###
 
